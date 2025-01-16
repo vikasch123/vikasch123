@@ -62,4 +62,4 @@ I'm a Java developer with a love for open-source technologies and a deep passion
 
 ---
 
-This version is modern, eye-catching, and includes some creative touches. It also breaks up sections nicely for readability and impact, ensuring it stands out in your profile. Let me know if you need any tweaks or additions!
+
