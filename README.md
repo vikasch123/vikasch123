@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Java Developer & Linux Enthusiast (Yes, I'm on Arch!)</h3>
 
 <p align="center">
-  <img alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV0NGZhbWQ1d25oemU1ZGJ2bDhsZDBoOHdtZWR0djJtcm9oODF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp">
+  <img alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpyZGNwY2VkanpwbGdlemU0ODNnb3BheWg4ZmhkdGtjdW82OXlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 </p>
 
 ---
