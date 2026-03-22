@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Vikas Kumar</h1>
-<h3 align="center">A Passionate Java Developer & Linux Enthusiast (Yes, I'm on Arch!)</h3>
+<h3 align="center">Backend & DevOps Enthusiast</h3>
 
 <p align="center">
   <img alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpyZGNwY2VkanpwbGdlemU0ODNnb3BheWg4ZmhkdGtjdW82OXlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
@@ -8,10 +8,9 @@
 ---
 
 ## 🚀 About Me
-I'm a Java developer with a love for open-source technologies and a deep passion for Linux. Currently diving into **Spring**, **Hibernate**, and **JPA** for backend development.
-
-- 🌱 **Currently learning**: Spring, Hibernate, JPA  
-- 🖥 **Tech Stack**: Java, Docker, Kubernetes, AWS, and more!
+- CS undergraduate  
+- DevOps intern  
+- Interested in backend development and cloud systems 
 
 ---
 
