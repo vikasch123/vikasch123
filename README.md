@@ -9,8 +9,9 @@
 
 ## 🚀 About Me
 - CS undergraduate  
-- DevOps intern  
+- Upcoming SRE 1 @Blinkit/Zomato 
 - Interested in backend development and cloud systems 
+- Forever curious, figuring out and learning new stuff 
 
 ---
 
