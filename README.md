@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - CS undergraduate  
-- Upcoming SRE 1 @Blinkit/Zomato 
+- SRE @Blinkit
 - Interested in backend development and cloud systems 
 - Forever curious, figuring out and learning new stuff 
 
